@@ -1,0 +1,11 @@
+C:\Users\admin\OneDrive\Máy tính\LTW\Tính tiền bán hàng\bin\Debug\Tính tiền bán hàng.exe.config
+C:\Users\admin\OneDrive\Máy tính\LTW\Tính tiền bán hàng\bin\Debug\Tính tiền bán hàng.exe
+C:\Users\admin\OneDrive\Máy tính\LTW\Tính tiền bán hàng\bin\Debug\Tính tiền bán hàng.pdb
+C:\Users\admin\OneDrive\Máy tính\LTW\Tính tiền bán hàng\obj\Debug\Tính tiền bán hàng.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\LTW\Tính tiền bán hàng\obj\Debug\Tính tiền bán hàng.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\OneDrive\Máy tính\LTW\Tính tiền bán hàng\obj\Debug\Tính_tiền_bán_hàng.Form1.resources
+C:\Users\admin\OneDrive\Máy tính\LTW\Tính tiền bán hàng\obj\Debug\Tính_tiền_bán_hàng.Properties.Resources.resources
+C:\Users\admin\OneDrive\Máy tính\LTW\Tính tiền bán hàng\obj\Debug\Tính tiền bán hàng.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Máy tính\LTW\Tính tiền bán hàng\obj\Debug\Tính tiền bán hàng.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\LTW\Tính tiền bán hàng\obj\Debug\Tính tiền bán hàng.exe
+C:\Users\admin\OneDrive\Máy tính\LTW\Tính tiền bán hàng\obj\Debug\Tính tiền bán hàng.pdb
